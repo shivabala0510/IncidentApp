@@ -154,6 +154,13 @@
                     "route": "Incidents_conversationObjectPage"
                   }
                 }
+              },
+              "controlConfiguration": {
+                "conversation/@com.sap.vocabularies.UI.v1.LineItem#Conversation": {
+                  "tableSettings": {
+                    "type": "ResponsiveTable"
+                  }
+                }
               }
             }
           }
